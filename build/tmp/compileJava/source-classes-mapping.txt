@@ -1,0 +1,8 @@
+entities/User.java
+ entities.User
+config/AppInit.java
+ config.AppInit
+config/AppConfig.java
+ config.AppConfig
+controllers/UserController.java
+ controllers.UserController
